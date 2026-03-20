@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Context Template"
+  short_description: "Template for project-specific constraints"
+  default_prompt: "Use $project-context-template to capture repo-specific context and constraints."

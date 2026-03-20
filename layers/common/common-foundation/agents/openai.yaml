@@ -1,0 +1,4 @@
+interface:
+  display_name: "Common Foundation"
+  short_description: "Cross-domain operating baseline"
+  default_prompt: "Use $common-foundation to structure a task before deeper specialization."

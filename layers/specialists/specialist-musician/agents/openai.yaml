@@ -1,0 +1,4 @@
+interface:
+  display_name: "Musician Specialist"
+  short_description: "Composition, arrangement, and sound lens"
+  default_prompt: "Use $specialist-musician to shape composition, arrangement, or sound-design work."

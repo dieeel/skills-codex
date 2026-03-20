@@ -1,0 +1,4 @@
+interface:
+  display_name: "Engineer Specialist"
+  short_description: "Software delivery and debugging lens"
+  default_prompt: "Use $specialist-engineer to handle implementation, debugging, and validation work."
