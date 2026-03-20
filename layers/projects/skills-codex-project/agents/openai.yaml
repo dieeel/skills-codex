@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skills Codex Project"
+  short_description: "Repo-specific language and note rules"
+  default_prompt: "Use $skills-codex-project to follow this repository's Japanese communication and note-location rules."
